@@ -1,0 +1,8 @@
+// Waitlist Contract Test Set Up
+// 1. Select Directory
+// 2. In terminal: truffle unbox react
+// 3. Copy contract into contracts folder
+// 4. Update 2_deploy_contracts.js
+// 5. Update App.js
+// 6. In terminal: truffle develop, then compile , then deploy.
+// 7. Open new terminal tab, cd client, then npm run start. 
